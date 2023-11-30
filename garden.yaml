@@ -1,0 +1,225 @@
+---
+garden:
+  root: '${GARDEN_CONFIG_DIR}'
+
+trees:
+  swallowjs/findup-sync:
+    url: 'https://github.com/gulpjs/findup-sync'
+  swallowjs/swallow:
+    url: 'https://github.com/gulpjs/gulp'
+  swallowjs/glob-stream:
+    url: 'https://github.com/gulpjs/glob-stream'
+  swallowjs/swallow-util:
+    url: 'https://github.com/gulpjs/gulp-util'
+  swallowjs/artwork:
+    url: 'https://github.com/gulpjs/artwork'
+  swallowjs/glob-watcher:
+    url: 'https://github.com/gulpjs/glob-watcher'
+  swallowjs/vinyl:
+    url: 'https://github.com/gulpjs/vinyl'
+  swallowjs/vinyl-fs:
+    url: 'https://github.com/gulpjs/vinyl-fs'
+  swallowjs/swallowjs.github.io:
+    url: 'https://github.com/gulpjs/gulpjs.github.io'
+  swallowjs/plugins:
+    url: 'https://github.com/gulpjs/plugins'
+  swallowjs/acceptance:
+    url: 'https://github.com/gulpjs/acceptance'
+  swallowjs/ordered-read-streams:
+    url: 'https://github.com/gulpjs/ordered-read-streams'
+  swallowjs/liftoff:
+    url: 'https://github.com/gulpjs/liftoff'
+  swallowjs/hacker:
+    url: 'https://github.com/gulpjs/hacker'
+  swallowjs/async-done:
+    url: 'https://github.com/gulpjs/async-done'
+  swallowjs/replace-ext:
+    url: 'https://github.com/gulpjs/replace-ext'
+  swallowjs/async-settle:
+    url: 'https://github.com/gulpjs/async-settle'
+  swallowjs/bach:
+    url: 'https://github.com/gulpjs/bach'
+  swallowjs/rechoir:
+    url: 'https://github.com/gulpjs/rechoir'
+  swallowjs/interpret:
+    url: 'https://github.com/gulpjs/interpret'
+  swallowjs/registry:
+    url: 'https://github.com/gulpjs/registry'
+  swallowjs/empty-dir:
+    url: 'https://github.com/gulpjs/empty-dir'
+  swallowjs/v8flags:
+    url: 'https://github.com/gulpjs/v8flags'
+  swallowjs/now-and-later:
+    url: 'https://github.com/gulpjs/now-and-later'
+  swallowjs/undertaker:
+    url: 'https://github.com/gulpjs/undertaker'
+  swallowjs/undertaker-registry:
+    url: 'https://github.com/gulpjs/undertaker-registry'
+  swallowjs/flagged-respawn:
+    url: 'https://github.com/gulpjs/flagged-respawn'
+  swallowjs/undertaker-common-tasks:
+    url: 'https://github.com/gulpjs/undertaker-common-tasks'
+  swallowjs/sparkles:
+    url: 'https://github.com/gulpjs/sparkles'
+  swallowjs/swallow-cli:
+    url: 'https://github.com/gulpjs/gulp-cli'
+  swallowjs/glogg:
+    url: 'https://github.com/gulpjs/glogg'
+  swallowjs/semver-greatest-satisfied-range:
+    url: 'https://github.com/gulpjs/semver-greatest-satisfied-range'
+  swallowjs/glob-parent:
+    url: 'https://github.com/gulpjs/glob-parent'
+  swallowjs/undertaker-task-metadata:
+    url: 'https://github.com/gulpjs/undertaker-task-metadata'
+  swallowjs/async-once:
+    url: 'https://github.com/gulpjs/async-once'
+  swallowjs/default-resolution:
+    url: 'https://github.com/gulpjs/default-resolution'
+  swallowjs/last-run:
+    url: 'https://github.com/gulpjs/last-run'
+  swallowjs/plugin-error:
+    url: 'https://github.com/gulpjs/plugin-error'
+  swallowjs/undertaker-forward-reference:
+    url: 'https://github.com/gulpjs/undertaker-forward-reference'
+  swallowjs/swallowlog:
+    url: 'https://github.com/gulpjs/gulplog'
+  swallowjs/mute-stdout:
+    url: 'https://github.com/gulpjs/mute-stdout'
+  swallowjs/fancy-log:
+    url: 'https://github.com/gulpjs/fancy-log'
+  swallowjs/has-swallowlog:
+    url: 'https://github.com/gulpjs/has-gulplog'
+  swallowjs/eslint-config-swallow:
+    url: 'https://github.com/gulpjs/eslint-config-gulp'
+  swallowjs/jscs-preset-swallow:
+    url: 'https://github.com/gulpjs/jscs-preset-gulp'
+  swallowjs/better-stats:
+    url: 'https://github.com/gulpjs/better-stats'
+  swallowjs/value-or-function:
+    url: 'https://github.com/gulpjs/value-or-function'
+  swallowjs/fined:
+    url: 'https://github.com/gulpjs/fined'
+  swallowjs/conventional-changelog-swallow:
+    url: 'https://github.com/gulpjs/conventional-changelog-gulp'
+  swallowjs/vinyl-prepare:
+    url: 'https://github.com/gulpjs/vinyl-prepare'
+  swallowjs/vinyl-sourcemap:
+    url: 'https://github.com/gulpjs/vinyl-sourcemap'
+  swallowjs/copy-props:
+    url: 'https://github.com/gulpjs/copy-props'
+  swallowjs/clone-buffer:
+    url: 'https://github.com/gulpjs/clone-buffer'
+  swallowjs/each-props:
+    url: 'https://github.com/gulpjs/each-props'
+  swallowjs/path-dirname:
+    url: 'https://github.com/gulpjs/path-dirname'
+  swallowjs/lead:
+    url: 'https://github.com/gulpjs/lead'
+  swallowjs/to-through:
+    url: 'https://github.com/gulpjs/to-through'
+  swallowjs/fs-mkdirp-stream:
+    url: 'https://github.com/gulpjs/fs-mkdirp-stream'
+  swallowjs/resolve-options:
+    url: 'https://github.com/gulpjs/resolve-options'
+  swallowjs/remove-bom-stream:
+    url: 'https://github.com/gulpjs/remove-bom-stream'
+  swallowjs/replace-homedir:
+    url: 'https://github.com/gulpjs/replace-homedir'
+  swallowjs/theming-log:
+    url: 'https://github.com/gulpjs/theming-log'
+  swallowjs/parse-node-version:
+    url: 'https://github.com/gulpjs/parse-node-version'
+  swallowjs/evented-require:
+    url: 'https://github.com/gulpjs/evented-require'
+  swallowjs/emit-mapper:
+    url: 'https://github.com/gulpjs/emit-mapper'
+  swallowjs/vinyl-contents:
+    url: 'https://github.com/gulpjs/vinyl-contents'
+  swallowjs/.github:
+    url: 'https://github.com/gulpjs/.github'
+  swallowjs/.boilerplate:
+    url: 'https://github.com/gulpjs/.boilerplate'
+  swallowjs/update-template:
+    url: 'https://github.com/gulpjs/update-template'
+  swallowjs/prettier_action:
+    url: 'https://github.com/gulpjs/prettier_action'
+  swallowjs/to-absolute-glob:
+    url: 'https://github.com/gulpjs/to-absolute-glob'
+
+groups:
+  all-group:
+    - 'swallowjs/findup-sync'
+    - 'swallowjs/swallow'
+    - 'swallowjs/glob-stream'
+    - 'swallowjs/swallow-util'
+    - 'swallowjs/artwork'
+    - 'swallowjs/glob-watcher'
+    - 'swallowjs/vinyl'
+    - 'swallowjs/vinyl-fs'
+    - 'swallowjs/swallowjs.github.io'
+    - 'swallowjs/plugins'
+    - 'swallowjs/acceptance'
+    - 'swallowjs/ordered-read-streams'
+    - 'swallowjs/liftoff'
+    - 'swallowjs/hacker'
+    - 'swallowjs/async-done'
+    - 'swallowjs/replace-ext'
+    - 'swallowjs/async-settle'
+    - 'swallowjs/bach'
+    - 'swallowjs/rechoir'
+    - 'swallowjs/interpret'
+    - 'swallowjs/registry'
+    - 'swallowjs/empty-dir'
+    - 'swallowjs/v8flags'
+    - 'swallowjs/now-and-later'
+    - 'swallowjs/undertaker'
+    - 'swallowjs/undertaker-registry'
+    - 'swallowjs/flagged-respawn'
+    - 'swallowjs/undertaker-common-tasks'
+    - 'swallowjs/sparkles'
+    - 'swallowjs/swallow-cli'
+    - 'swallowjs/glogg'
+    - 'swallowjs/semver-greatest-satisfied-range'
+    - 'swallowjs/glob-parent'
+    - 'swallowjs/undertaker-task-metadata'
+    - 'swallowjs/async-once'
+    - 'swallowjs/default-resolution'
+    - 'swallowjs/last-run'
+    - 'swallowjs/plugin-error'
+    - 'swallowjs/undertaker-forward-reference'
+    - 'swallowjs/swallowlog'
+    - 'swallowjs/mute-stdout'
+    - 'swallowjs/fancy-log'
+    - 'swallowjs/has-swallowlog'
+    - 'swallowjs/eslint-config-swallow'
+    - 'swallowjs/jscs-preset-swallow'
+    - 'swallowjs/better-stats'
+    - 'swallowjs/value-or-function'
+    - 'swallowjs/fined'
+    - 'swallowjs/conventional-changelog-swallow'
+    - 'swallowjs/vinyl-prepare'
+    - 'swallowjs/vinyl-sourcemap'
+    - 'swallowjs/copy-props'
+    - 'swallowjs/clone-buffer'
+    - 'swallowjs/each-props'
+    - 'swallowjs/path-dirname'
+    - 'swallowjs/lead'
+    - 'swallowjs/to-through'
+    - 'swallowjs/fs-mkdirp-stream'
+    - 'swallowjs/resolve-options'
+    - 'swallowjs/remove-bom-stream'
+    - 'swallowjs/replace-homedir'
+    - 'swallowjs/theming-log'
+    - 'swallowjs/parse-node-version'
+    - 'swallowjs/evented-require'
+    - 'swallowjs/emit-mapper'
+    - 'swallowjs/vinyl-contents'
+    - 'swallowjs/.github'
+    - 'swallowjs/.boilerplate'
+    - 'swallowjs/update-template'
+    - 'swallowjs/prettier_action'
+    - 'swallowjs/to-absolute-glob'
+
+gardens:
+  all:
+    groups: 'all-group'
